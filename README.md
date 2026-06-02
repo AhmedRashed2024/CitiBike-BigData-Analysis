@@ -102,4 +102,5 @@ jupyter notebook notebook8a07de7b3e.ipynb
 ## 👥 Team Members
 
 - Ahmed Rashed
+- Ramez Mokbil
 - (add teammates here)
